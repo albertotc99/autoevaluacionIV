@@ -27,7 +27,7 @@ Como solo **pagas por el tiempo de uso** voy a calcular cuánto costaría al añ
 Podemos concluir que nos sale más rentable el servidor en la nube si solo lo vamos a utilizar un 10% del tiempo.
 ___
 ### Ejercicio 3
-Para ver en el archivo /proc/cpuinfo mi modelo de procesador he hecho cat a este archivo. Se puede ver que mi procesador es un Intel Core i7-7500U a 2.70GHz.
+Para ver mi modelo de procesador he hecho cat a /proc/cpuinfo. Se puede ver que mi procesador es un Intel Core i7-7500U a 2.70GHz.
 
 ![cat cpuinfo](./img/cat_cpuinfo.png)
 
